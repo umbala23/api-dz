@@ -1,4 +1,4 @@
-const { zing } = require("zingmp3-api-")
+const { zing } = require("zingmp3-api-next")
 
 class ZingController {
    async getHome(req, res) {
